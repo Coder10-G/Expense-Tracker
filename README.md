@@ -45,6 +45,21 @@ expense-tracker/
 
 ## ▶️ How to Run
 
-1. Clone the repository:
-```bash
-git clone 
+1. Clone the repository
+2. Navigate to project folder
+3. Run the program
+
+📈 Future Improvements
+- Monthly expense tracking
+- Budget warning system
+- Data visualization improvements
+- GUI version using Tkinter or Streamlit
+- Cloud database integration
+
+👨‍💻 Author
+Built by a beginner Data Science student exploring Python, data analysis, and real-world projects.
+
+⭐ If you like this project
+Give it a star ⭐ on GitHub and feel free to improve it!
+
+
